@@ -1,14 +1,6 @@
 """
-Input / Output example
-Written by Sandy Barbour - 29/02/2004
-Ported to Python by Sandy Barbour - 01/05/2005
-
-This examples shows how to get input data from Xplane.
-It also shows how to control Xplane by sending output data to it.
-
-In this case it controls N1 depending on the throttle value.
-
-It also shows the use of Menus and Widgets.
+Flight Deck Simulators Plugin
+Erol Gurcan
 """
 
 from XPPython3 import xp
